@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Doa Kebaikan Dunia Dan Akhirat",
+      "arabic": "رَبَّنَاا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Rabbana atina fi ad-dunya hasanah, wa fi al-akhirati hasanah, waqina 'adhaban-nar",
+      "terjemahan": "Ya Tuhan, berilah kami kebaikan di dunia dan kebaikan di akhirat, serta selamatkanlah kami dari siksa neraka."
+    },
+    {
+      "id": 2,
+      "name": "Doa Masuk WC",
+      "arabic": "للَّهُمَّ إنِّي أَعُوذُ بِك من الْخُبْثِ وَالْخَبَائِثِ",
+      "latin": "Allahumma innii a'uudzubika minal khubutsi wal khabaaits",
+      "terjemahan": "Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kejahatan para setan"
+    },
+    {
+      "id": 3,
+      "name": "Doa Setelah Keluar WC",
+      "arabic": "غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ",
+      "latin": "Ghufranaka Alhamdulillahilladzi adzhaba 'annil adzaa wa'aafaanii",
+      "terjemahan": "Segala Puji bagi Allah yang telah menghilangkan apa yang menyakitkan aku dan menyisakan apa yang bermanfaat bagiku."
+    },
+    {
+      "id": 4,
+      "name": "Doa Sebelum Makan",
+      "arabic": " اَللّٰهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Allahumma baarik lanaa fiimaa rozaqtanaa wa qinaa 'adzaa bannaar.",
+      "terjemahan": "Ya Allah berkahilah kami dalam rezeki yang telah Engkau limpahkan kepada kami, dan peliharalah kami dari siksa neraka. Dengan nama Allah Yang Maha Pemurah lagi Maha Penyayang."
+    },
+    {
+      "id": 5,
+      "name": "Doa Sesudah Makan",
+      "arabic": "اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْنَ",
+      "latin": "Alhamdulillahilladzi ath-amanaa wa saqoonaa wa ja'alanaa minal muslimiin.",
+      "terjemahan": "Segala puji bagi Allah Yang telah memberi kami makan dan minum, serta menjadikan kami muslim."
+    },
+    {
+      "id": 6,
+      "name": "Doa Naik Kendaraan Darat",
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ      ",
+      "latin": "Subhaanal ladzii sakhkhoro lanaa haadzaa wa maa kunnaa lahuu muqriniin, wa innaa ilaa robbinaa lamunqolibuun.",
+      "terjemahan": "Maha suci Tuhan yang memudahkan ini kendaraan bagi kami, sedangkan kami tiba bisa memudahkan kepadaNya, dan kepada Allah kami kembali."
+    },
+    {
+      "id": 7,
+      "name": "Doa Naik Kendaraan Laut",
+      "arabic": "بِسْمِ اللَّهِ بَحْرِنَهَا وَمُرْسَهَا إِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
+      "latin": "Bismillaahi majreeha wa mursaahaa, inna Rabbii laghafuurur Rahiim.",
+      "terjemahan": "Dengan nama Allah, yang menjalankan kendaraan ini berlayar dan berlabuh, sesungguhnya Tuhanku Pemaaf lagi Pengasih."
+    },
+    {
+      "id": 8,
+      "name": "Doa Sebelum Tidur",
+      "arabic": "اللَّهُمَّ بِاسْمِكَ أَحْيَا وَبِاسْمِكَ أَمُوتُ",
+      "latin": "Allahumma bismika ahya wabismika amútu",
+      "terjemahan": "Dengan nama-Mu ya Allah aku hidup dan dengan nama-Mu aku mati."
+    },
+    {
+      "id": 9,
+      "name": "Doa Sesudah Bangun Tidur",
+      "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرِ",
+      "latin": "Alhamdullillahilladzi ahyaanaa ba'da maa amaatanaa wa ilaihin nusyuu",
+      "terjemahan": "Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami. Kepada-Nya-lah kami akan kembali"
+    },
+    {
+      "id": 10,
+      "name": "Doa Keluar Rumah",
+      "arabic": " بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللَّهِ لَاحَوْلَ وَلَا قُوَّةَ الا بالله",
+      "latin": "Bismillaahi tawakkaltu 'alal laahi laa haula walaa quwwata illaa billaah(i).",
+      "terjemahan": "Dengan menyebut nama Allah, aku menyerahkan diriku pada Allah dan tidak ada daya dan kekuatan selain dengan Allah saja."
+    },
+    {
+      "id": 11,
+      "name": "Doa Masuk Masjid",
+      "arabic": "للَّهُمَّ افْتَحْ لي أبْوَابَ رَحْمَتِكَ",
+      "latin": "Allahummaftha lii abwaaba rahmatika.",
+      "terjemahan": "Ya Allah, bukalah pintu-pintu rahmat-Mu untukku."
+    },
+    {
+      "id": 12,
+      "name": "Doa Keluar Masjid",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "latin": "Allaahumma innii as'aluka min fadhlika.",
+      "terjemahan": "Ya Allah, aku memohon kepadaMu karunia-Mu.."
+    },
+    {
+      "id": 13,
+      "name": "Doa Menjenguk Orang Sakit",
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ، أَذْهِبِ الْبَأْسَ، اشْفِ أَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا",
+      "latin": "Allahuma rabban-Nas, adhibil ba'sa, washfi Antash-Shafi, la shifa'a illa shifa'uka, shifa'an la yughadiru saqama",
+      "terjemahan": "Wahai Tuhan manusia, hilangkanlah penyakit ini dan sembuhkanlah, Engkau-lah Yang Maha Penyembuh, tidak ada kesembuhan kecuali kesembuhan dari-Mu, kesembuhan yang tidak meninggalkan kesakitan"
+    }
+  ]
